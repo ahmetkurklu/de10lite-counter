@@ -41,6 +41,4 @@ In this part, I added a timer to my Qsys design and set it with a period of 1 se
 
 # Conclusion
 
-I successfully completed lab2 without major difficulty and in less time than lab1. This second practical work allowed me to use timers and understand their functioning. In the first lab, I spent a lot of time on the interrupt. For this lab, I directly consulted the documentation to ensure that all registers behaved correctly. However, at the beginning of
-
- the practical work, I needed some time to think about how to make the connections, but once the system architecture was drawn, it greatly helped me.
+I successfully completed lab2 without major difficulty and in less time than lab1. This second practical work allowed me to use timers and understand their functioning. In the first lab, I spent a lot of time on the interrupt. For this lab, I directly consulted the documentation to ensure that all registers behaved correctly. However, at the beginning of the practical work, I needed some time to think about how to make the connections, but once the system architecture was drawn, it greatly helped me.
